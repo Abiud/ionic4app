@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1023299584621",
+    "firebase_url": "https://ionic4-fire-f8a53.firebaseio.com",
+    "project_id": "ionic4-fire-f8a53",
+    "storage_bucket": "ionic4-fire-f8a53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023299584621:android:f6988217e3630228",
+        "android_client_info": {
+          "package_name": "com.abiudcantu.ionfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023299584621-1ms4brkj3uglhq0jr6mkrnrm4dqp5qa3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA52yLrawLr5E1YBl1XgRq-lvIW2thG7bo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
